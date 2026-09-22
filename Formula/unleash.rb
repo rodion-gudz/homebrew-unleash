@@ -1,8 +1,8 @@
 class Unleash < Formula
   desc "Single-script MDM bypass and suppression for macOS (fork with fixes)"
   homepage "https://github.com/rodion-gudz/unleash"
-  url "https://github.com/rodion-gudz/unleash/releases/download/v2.2.1/unleash-standalone.sh"
-  sha256 "fbb829d497feb3ef46d0b56bb9a8a387fc45807c1c57dddc26978b4e93ed8d54"
+  url "https://github.com/rodion-gudz/unleash/releases/download/v2.2.3/unleash-standalone.sh"
+  sha256 "3932edbc4f448b72203d0a8eaf82e1173c7759f7f276dc707a41437d6ab939b9"
   license "MIT"
 
   def install
